@@ -1,0 +1,267 @@
+[
+    {
+        "id": 1,
+        "brand": "CORSAIR",
+        "name": "Gabinete Corsair Icue 5000D Rgb Mid-Tow C Temp Atx Bco CC-9011209-WW",
+        "color": "blanco",
+        "material": "Plástico, Acero, Vidrio templado",
+        "RGB": true,
+        "structure type": "Midi Tower",
+        "detail": {
+            "dimensions": "52 cm x 24.5 cm x 52 cm",
+            "weight": "13.8 kg",
+            "cooling": {
+                "front_fans_num": 2,
+                "front_fans_dimension_mm": [120,140],
+                "back_fans_num": 1,
+                "back_fans_dimension_mm": [120]
+            }
+        },
+        "connectivity": {
+            "disk": {
+                "hdd": 2,
+                "ssd": 3,
+                "size_inch": "2.5,3.5"
+            },
+            "power_supply_type": "ATX",
+            "mother_types": "ATX, MATX, ITX",
+            "max_length_psu": "22.5 cm",
+            "max_length_gpu": "42 cm"
+        },
+        "price": 25052.98, 
+        "images": [
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666156/pc/corsair1_yoar7e.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666160/pc/corsair2_vqzfmt.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666164/pc/corsair3_cojo66.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666168/pc/corsair4_zvfofh.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666172/pc/corsair5_d9xbmt.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "brand": "ACTECK",
+        "name": "Gabinete Gamer Balam Rush Blanco +3 Ventilador Rgb Dragonfly",
+        "color": "blanco",
+        "material": "Metal Plástico y vidrio",
+        "RGB": true,
+        "structure type": "Midi Tower",
+        "detail": {
+            "dimensions": "42.5 cm x 18.2 cm x 45 cm",
+            "weight": "5.46 kg",
+            "cooling": {
+                "front_fans_num": 3,
+                "front_fans_dimension_mm": [120],
+                "back_fans_num": 1,
+                "back_fans_dimension_mm": [120]
+            }
+        },
+        "connectivity": {
+            "disk": {
+                "hdd": 2,
+                "ssd": 2,
+                "size_inch": "2.5,3.5"
+            },
+            "power_supply_type": "ATX",
+            "mother_types": "",
+            "max_length_psu": "",
+            "max_length_gpu": ""
+        },
+        "price": 12800.39, 
+        "images": [
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666726/pc/ACTECK/acteck1_no9dwr.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666731/pc/ACTECK/acteck2_hhu0xa.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666735/pc/ACTECK/acteck3_tgdn2p.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666666741/pc/ACTECK/acteck4_ekbkbd.jpg"
+        ]
+
+    },
+    {
+        "id": 3,
+        "brand": "VETROO",
+        "name": "Gabinete Vetroo M01 con Venatana, USB 2.0/3.0, sin Fuente",
+        "color": "Negro",
+        "material": "Metal Plástico y vidrio",
+        "RGB": true,
+        "structure type": "Midi Tower",
+        "detail": {
+            "dimensions": "39.1 cm x 22.8 cm x 40.8 cm",
+            "weight": "5,3 kg",
+            "cooling": {
+                "front_fans_num": 1,
+                "front_fans_dimension_mm": [120,140,200],
+                "back_fans_num": 1,
+                "back_fans_dimension_mm": [120]
+            }
+        },
+        "connectivity": {
+            "disk": {
+                "hdd": 1,
+                "ssd": 0,
+                "size_inch": "2.5"
+            },
+            "power_supply_type": "ATX",
+            "mother_types": "Micro ATX, Micro-ITX",
+            "max_length_psu": "",
+            "max_length_gpu": "34 cm"
+        },
+        "price": 12878.02, 
+        "images": [
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666668517/pc/VETROO/vetroo1_eq8dcf.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666668532/pc/VETROO/vetroo2_l9bfj2.jpg"
+        ]
+
+    },
+    {
+        "id": 4,
+        "brand": "CORSAIR",
+        "name": "Gabinete Corsair 470T Hydro X Rgb Semitorre Atx Cc 9011215 Ww",
+        "color": "Negro, gris",
+        "material": "Metal, Plástico",
+        "RGB": true,
+        "structure type": "Midi Tower",
+        "detail": {
+            "dimensions": "49.5 cm x 21.3 cm x 47.7 cm",
+            "weight": "6,89 kg",
+            "cooling": {
+                "front_fans_num": 7,
+                "front_fans_dimension_mm": [120,140],
+                "back_fans_num": 0,
+                "back_fans_dimension_mm": []
+            }
+        },
+        "connectivity": {
+            "disk": {
+                "hdd": 1,
+                "ssd": 0,
+                "size_inch": ""
+            },
+            "power_supply_type": "ATX",
+            "mother_types": "ATX, micro ATX, Mini-ITX",
+            "max_length_psu": "",
+            "max_length_gpu": ""
+        },
+        "price": 13672.35, 
+        "images": [
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666668876/pc/CORSAIR/corsair1.1_e1drmd.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666668880/pc/CORSAIR/corsair1.2_ojcui4.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666668895/pc/CORSAIR/corsair1.3_favgsa.jpg"
+        ]
+
+    },
+    {
+        "id": 5,
+        "brand": "ACTECK",
+        "name": "Gabinete Acteck Performance Media Torre Atx 500w Negro",
+        "color": "Negro, gris",
+        "material": "Metal",
+        "RGB": false,
+        "structure type": "Midi Tower",
+        "detail": {
+            "dimensions": "40 cm x 40 cm x 20 cm",
+            "weight": "6,89 kg",
+            "cooling": {
+                "front_fans_num": 0,
+                "front_fans_dimension_mm": [],
+                "back_fans_num": 0,
+                "back_fans_dimension_mm": []
+            }
+        },
+        "connectivity": {
+            "disk": {
+                "hdd": 1,
+                "ssd": 0,
+                "size_inch": "2.5"
+            },
+            "power_supply_type": "",
+            "mother_types": "Micro ATX,Mini-ITX",
+            "max_length_psu": "",
+            "max_length_gpu": ""
+        },
+        "price": 6124.63, 
+        "images": [
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669331/pc/ACTECK/acteck1.1_kwexgs.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669337/pc/ACTECK/acteck1.2_xp0cin.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669340/pc/ACTECK/acteck1.3_zsegmo.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669344/pc/ACTECK/acteck1.4_od16ft.jpg"
+        ]
+
+    },
+    {
+        "id": 6,
+        "brand": "COUGAR",
+        "name": "Gabinete Cougar Gemini M con Ventana, USB 2.0/3.0, sin Fuente, Gris",
+        "color": "Gris",
+        "material": "Metal",
+        "RGB": true,
+        "structure type": "Mini Tower",
+        "detail": {
+            "dimensions": "42.3 cm x 21 cm x 40 cm",
+            "weight": "5,54 kg",
+            "cooling": {
+                "front_fans_num": 3,
+                "front_fans_dimension_mm": [120,140],
+                "back_fans_num": 1,
+                "back_fans_dimension_mm": [120]
+            }
+        },
+        "connectivity": {
+            "disk": {
+                "hdd": 2,
+                "ssd": 2,
+                "size_inch": "2.5, 3.5"
+            },
+            "power_supply_type": "",
+            "mother_types": "Micro ATX,Mini-ITX",
+            "max_length_psu": "16 cm",
+            "max_length_gpu": "33 cm"
+        },
+        "price": 9384.88, 
+        "images": [
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669865/pc/COUGAR/cougar1_lqmter.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669870/pc/COUGAR/cougar2_rslcip.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669877/pc/COUGAR/cougar3_vrm5vs.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669883/pc/COUGAR/cougar4_zauyci.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666669888/pc/COUGAR/cougar5_dpiwex.jpg"
+        ]
+
+    },
+    {
+        "id": 7,
+        "brand": "BALAM RUSH",
+        "name": "Gabinete Gamer Balam Rush Kraken Rgb Cristal",
+        "color": "Negro",
+        "material": "Metal, Cristal Templado",
+        "RGB": true,
+        "structure type": "Midi Tower",
+        "detail": {
+            "dimensions": "44.7 cm x 21 cm x 36.5 cm",
+            "weight": "6,0 kg",
+            "cooling": {
+                "front_fans_num": 2,
+                "front_fans_dimension_mm": [200],
+                "back_fans_num": 1,
+                "back_fans_dimension_mm": [120]
+            }
+        },
+        "connectivity": {
+            "disk": {
+                "hdd": 2,
+                "ssd": 3,
+                "size_inch": "2.5, 3.5"
+            },
+            "power_supply_type": "ATX",
+            "mother_types": "ATX, Micro ATX, Mini ITX",
+            "max_length_psu": "",
+            "max_length_gpu": "31 cm"
+        },
+        "price": 13964.77, 
+        "images": [
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666670300/pc/BALAM%20RUSH/BALAM1_pkmine.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666670305/pc/BALAM%20RUSH/BALAM2_del8iz.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666670309/pc/BALAM%20RUSH/BALAM3_mzony9.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666670312/pc/BALAM%20RUSH/BALAM4_v5bace.jpg",
+            "https://res.cloudinary.com/dhadvdeca/image/upload/v1666670364/pc/BALAM%20RUSH/BALAM5_kkmtmk.jpg"
+        ]
+
+    }
+]
