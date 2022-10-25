@@ -1,4 +1,2865 @@
 {
+  "procesadores": [
+    {
+      "id": 1,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i5 10400F 4.3GHz Turbo 1200 Comet Lake",
+      "details": {
+        "Modelo": "Core i5 10400F",
+        "Socket": "1200 Comet Lake",
+        "Núcleos": 6,
+        "Frecuencia": "2900.00 mhz",
+        "Proceso De Fabricación": "14 nm",
+        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 12,
+        "Frecuencia Turbo": "4300 mhz"
+      },
+      "cost": 30600,
+      "img": []
+    },
+    {
+      "id": 2,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i5",
+      "details": {
+        "Modelo": "11400F",
+        "Socket": "1200 Rocket Lake-S",
+        "Núcleos": 6,
+        "Frecuencia": "2600.00 mhz",
+        "Proceso De Fabricación": "14 nm",
+        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 12,
+        "Frecuencia Turbo": "4400 mhz"
+      },
+      "cost": 33500,
+      "img": []
+    },
+    {
+      "id": 3,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i3",
+      "details": {
+        "Modelo": "12100",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 4,
+        "Frecuencia": "3300.00 mhz",
+        "Proceso De Fabricación": "10 nm",
+        "Chipset Gpu": "UHD Graphics 730",
+        "Hilos": 8,
+        "Frecuencia Turbo": "4300 mhz"
+      },
+      "cost": 34650,
+      "img": []
+    },
+    {
+      "id": 4,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i5",
+      "details": {
+        "Modelo": "12400f",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 6,
+        "Frecuencia": "2500.00 mhz",
+        "Proceso De Fabricación": "10 nm",
+        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 12,
+        "Frecuencia Turbo": "4400 mhz"
+      },
+      "cost": 40150,
+      "img": []
+    },
+    {
+      "id": 5,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i5",
+      "details": {
+        "Modelo": "11400",
+        "Socket": "1200 Rocket Lake-S",
+        "Núcleos": 6,
+        "Frecuencia": "2600.00 mhz",
+        "Proceso De Fabricación": "14 nm",
+        "Chipset Gpu": "UHD Graphics 730",
+        "Hilos": 12,
+        "Frecuencia Turbo": "4400 mhz"
+      },
+      "cost": 40550,
+      "img": []
+    },
+    {
+      "id": 6,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i5",
+      "details": {
+        "Modelo": "11600KF",
+        "Socket": "1200 Rocket Lake-S",
+        "Núcleos": 6,
+        "Frecuencia": "3900.00 mhz",
+        "Proceso De Fabricación": "14 nm",
+        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 12,
+        "Frecuencia Turbo": "4900 mhz"
+      },
+      "cost": 48550,
+      "img": []
+    },
+    {
+      "id": 7,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i5",
+      "details": {
+        "Modelo": "Intel Core i5 10600K",
+        "Socket": "1200 Comet Lake",
+        "Núcleos": 6,
+        "Frecuencia": "4100.00 mhz",
+        "Proceso De Fabricación": "14 nm",
+        "Chipset Gpu": "Intel HD Graphics 630",
+        "Hilos": 12,
+        "Frecuencia Turbo": "4800 mhz"
+      },
+      "cost": 48800,
+      "img": []
+    },
+    {
+      "id": 8,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i5",
+      "details": {
+        "Modelo": "12400",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 6,
+        "Frecuencia": "2500.00 mhz",
+        "Proceso De Fabricación": "10 nm",
+        "Chipset Gpu": "UHD Graphics 730",
+        "Hilos": 12,
+        "Frecuencia Turbo": "4400 mhz"
+      },
+      "cost": 54100,
+      "img": []
+    },
+    {
+      "id": 9,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i7 10700F 4.8GHz Turbo Socket 1200 Comet Lake",
+      "details": {
+        "Modelo": "10700F",
+        "Socket": "1200 Comet Lake",
+        "Núcleos": 8,
+        "Frecuencia": "2900.00 mhz",
+        "Proceso De Fabricación": "14 nm",
+        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 16,
+        "Frecuencia Turbo": "4800 mhz"
+      },
+      "cost": 57600,
+      "img": []
+    },
+    {
+      "id": 10,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i5 12600KF 4.90GHz Turbo Socket 1700",
+      "details": {
+        "Modelo": "12600KF",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 10,
+        "Frecuencia": "2800.00 mhz",
+        "Proceso De Fabricación": "10 nm",
+        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 16,
+        "Frecuencia Turbo": "4900 mhz"
+      },
+      "cost": 61200,
+      "img": []
+    },
+    {
+      "id": 11,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i7 10700KF 5.1GHz Turbo 1200 Comet Lake",
+      "details": {
+        "Modelo": "12600KF",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 10,
+        "Frecuencia": "2800.00 mhz",
+        "Proceso De Fabricación": "10 nm",
+        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 16,
+        "Frecuencia Turbo": "4900 mhz"
+      },
+      "cost": 67100,
+      "img": []
+    },
+    {
+      "id": 12,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i7 10700 4.8GHz Turbo Socket 1200 Comet Lake",
+      "details": {
+        "Modelo": "Core i7 10700",
+        "Socket": "1200 Comet Lake",
+        "Núcleos": 8,
+        "Frecuencia": "2900.00 mhz",
+        "Proceso De Fabricación": "14 nm",
+        "Chipset Gpu": "Intel HD Graphics 630",
+        "Hilos": 16,
+        "Frecuencia Turbo": "4800 mhz"
+      },
+      "cost": 72050,
+      "img": []
+    },
+    {
+      "id": 13,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i7 10700K 5.1GHz Turbo 1200 Comet Lake",
+      "details": {
+        "Modelo": "Core i7 10700K",
+        "Socket": "1200 Comet Lake",
+        "Núcleos": 8,
+        "Frecuencia": "3800.00 mhz",
+        "Proceso De Fabricación": "14 nm",
+        "Chipset Gpu": "Intel HD Graphics 630",
+        "Hilos": 16,
+        "Frecuencia Turbo": "5000 mhz"
+      },
+      "cost": 73350,
+      "img": []
+    },
+    {
+      "id": 14,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i7 12700 S1700 12th Gen",
+      "details": {
+        "Modelo": "Core i7 12700",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 12,
+        "Frecuencia": "2100.00 mhz",
+        "Proceso De Fabricación": "10 nm",
+        "Chipset Gpu": "UHD Graphics 770",
+        "Hilos": 20,
+        "Frecuencia Turbo": "4900 mhz"
+      },
+      "cost": 92500,
+      "img": []
+    },
+    {
+      "id": 15,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i7 12700KF 5.0GHz Turbo Socket 1700",
+      "details": {
+        "Modelo": "12700KF",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 12,
+        "Frecuencia": "2700.00 mhz",
+        "Proceso De Fabricación": "10 nm",
+        "Chipset Gpu": "UHD Graphics 770",
+        "Hilos": 20,
+        "Frecuencia Turbo": "5000 mhz"
+      },
+      "cost": 104400,
+      "img": []
+    },
+    {
+      "id": 16,
+      "brand": "Intel",
+      "name": "Procesador Intel Core i7 12700K 5.0GHz Turbo Socket 1700",
+      "details": {
+        "Modelo": "12700K",
+        "Socket": "1700 Alder Lake-S",
+        "Núcleos": 12,
+        "Frecuencia": "2700.00 mhz",
+        "Proceso De Fabricación": "10 nm",
+        "Chipset Gpu": "UHD Graphics 770",
+        "Hilos": 20,
+        "Frecuencia Turbo": "5000 mhz"
+      },
+      "cost": 111500,
+      "img": []
+    },
+    {
+      "id": 31,
+      "brand": "AMD",
+      "name": "Procesador AMD Ryzen 5 4600G 3.7GHz + Wraith Stealth Cooler AM4",
+      "details": {
+        "Modelo": "4600G",
+        "Socket": "AM4 APU 3th Gen",
+        "Núcleos": 6,
+        "Frecuencia": "3700.00 mhz",
+        "Proceso De Fabricación": "7 nm",
+        "Chipset Gpu": "Radeon Vega 7",
+        "Hilos": 12,
+        "Frecuencia Turbo": "4200 mhz"
+      },
+      "cost": 29900,
+      "img": []
+    },
+    {
+      "id": 32,
+      "brand": "AMD",
+      "name": "Procesador AMD Ryzen 5 4500 + Wraith Stealth Cooler AM4",
+      "details": {
+        "Modelo": "4500",
+        "Socket": "AM4 APU 3th Gen",
+        "Núcleos": 6,
+        "Frecuencia": "3600.00 mhz",
+        "Proceso De Fabricación": "7 nm",
+        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 12,
+        "Frecuencia Turbo": "4100 mhz"
+      },
+      "cost": 30450,
+      "img": []
+    },
+    {
+      "id": 33,
+      "brand": "AMD",
+      "name": "Procesador AMD Ryzen 5 5500 4.2GHz Turbo + Wraith Stealth Cooler",
+      "details": {
+        "Modelo": "5500",
+        "Socket": "AM4 Ryzen 4th Gen",
+        "Núcleos": 6,
+        "Frecuencia": "3600.00 mhz",
+        "Proceso De Fabricación": "7 nm",
+        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 12,
+        "Frecuencia Turbo": "4200 mhz"
+      },
+      "cost": 33250,
+      "img": []
+    },
+    {
+      "id": 34,
+      "brand": "AMD",
+      "name": "Procesador AMD Ryzen 5 1600 AF Zen+ 12nm AM4 Wraith Stealth Cooler",
+      "details": {
+        "Modelo": "Ryzen 5 1600 AF",
+        "Socket": "AM4 Ryzen 2th Gen",
+        "Núcleos": 6,
+        "Frecuencia": "3200.00 mhz",
+        "Proceso De Fabricación": "12 nm",
+        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 12,
+        "Frecuencia Turbo": "3600 mhz"
+      },
+      "cost": 31500,
+      "img": []
+    },
+    {
+      "id": 41,
+      "brand": "AMD",
+      "name": "Procesador AMD Ryzen 7 5700X 4.6GHz Turbo AM4 - No incluye Cooler",
+      "details": {
+        "Modelo": "5700X",
+        "Socket": "AM4 Ryzen 4th Gen",
+        "Núcleos": 8,
+        "Frecuencia": "3400.00 mhz",
+        "Proceso De Fabricación": "7 nm",
+        "Chipset Gpu": "NO Posee Gráficos Integrados",
+        "Hilos": 16,
+        "Frecuencia Turbo": "4600 mhz"
+      },
+      "cost": 61500,
+      "img": []
+    },
+    {
+      "id": 42,
+      "brand": "AMD",
+      "name": "Procesador AMD Ryzen 7 PRO 4750G + Wraith Stealth Cooler OEM",
+      "details": {
+        "Modelo": "PRO 4750G",
+        "Socket": "AM4 APU 3th Gen",
+        "Núcleos": 8,
+        "Frecuencia": "3600.00 mhz",
+        "Proceso De Fabricación": "7 nm",
+        "Chipset Gpu": "Radeon Vega 7",
+        "Hilos": 16,
+        "Frecuencia Turbo": "4400 mhz"
+      },
+      "cost": 65400,
+      "img": []
+    },
+    {
+      "id": 43,
+      "brand": "AMD",
+      "name": "Procesador AMD Ryzen 7 5700G 4.6GHz Turbo + Wraith Stealth Cooler",
+      "details": {
+        "Modelo": "5700G",
+        "Socket": "AM4 APU 5000",
+        "Núcleos": 8,
+        "Frecuencia": "3800.00 mhz",
+        "Proceso De Fabricación": "7 nm",
+        "Chipset Gpu": "Radeon Vega 8",
+        "Hilos": 16,
+        "Frecuencia Turbo": "4600 mhz"
+      },
+      "cost": 65450,
+      "img": []
+    }
+  ],
+  "mother": [
+    {
+      "id": 1,
+      "brand": "AMD",
+      "name": "Mother ASUS PRIME",
+      "cost": 17350,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": 0,
+          "Puertos Sata": 4,
+          "Salida Vga": 1,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 1,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 4,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 1
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 887"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 2,
+      "brand": "AMD",
+      "name": "Mother ASUS PRIME",
+      "cost": 10900,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": 0,
+          "Puertos Sata": 4,
+          "Salida Vga": 1,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 1,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1Gb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 4,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 1
+        },
+        "Socket": [
+          "AM4 A-Series",
+          "AM4 APU 1th Gen",
+          "AM4 APU 2th Gen",
+          "AM4 Ryzen 1th Gen",
+          "AM4 Ryzen 2th Gen",
+          "AM4 Ryzen 3th Gen",
+          "AM4 Ryzen 4th Gen"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 140,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 0,
+          "Conector 24Pines": 1,
+          "Consumo": "45w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 887"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 3,
+      "brand": "AMD",
+      "name": "Mother Asrock A320M-HDV R4.0 Ryzen M-ATX",
+      "cost": 10500,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 1,
+          "Tecnologia Multi Gpu": 0,
+          "Puertos Sata": 4,
+          "Salida Vga": 1,
+          "Salida HDMI": 1,
+          "Salida Dvi": 1,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 1,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 4,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 4,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 1
+        },
+        "Socket": [
+          "AM4 A-Series",
+          "AM4 APU 1th Gen",
+          "AM4 APU 2th Gen",
+          "AM4 Ryzen 1th Gen",
+          "AM4 Ryzen 2th Gen",
+          "AM4 Ryzen 3th Gen",
+          "AM4 Ryzen 4th Gen"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 0,
+          "Conector 24Pines": 1,
+          "Consumo": "50w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 CH HD Audio (Realtek ALC887 Audio Codec)"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 4,
+      "brand": "AMD",
+      "name": "Mother Asrock B450 Steel Legend AM4 RGB Dual M.2 Dual USB 3.",
+      "cost": 29900,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 4,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1Gb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 4,
+          "Puertos Usb 3.0 Traseros": 2,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 APU 1th Gen",
+          "AM4 APU 2th Gen",
+          "AM4 Ryzen 1th Gen",
+          "AM4 Ryzen 2th Gen",
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 892"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "AMD",
+      "name": "Mother ASUS PRIME X570-P AM4 PCIe Gen4 Dual M.2",
+      "cost": 38200,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 3,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1Gb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 4,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 6,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 2,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 APU 2th Gen",
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 Ryzen 2th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 315,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 892"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "id": 6,
+      "brand": "AMD",
+      "name": "Mother Asrock X570 Phantom Gaming 4 AM4 PCIe Gen4",
+      "cost": 36800,
+      "img": [],
+      "connectivity": {
+        "Cantidad De Slot Pci-e 16X": 2,
+        "Cantidad De Slot Pci-e 1X": 2,
+        "Tecnologia Multi Gpu": "Crossfire",
+        "Puertos Sata": 8,
+        "Salida Vga": 0,
+        "Salida HDMI": 1,
+        "Salida Dvi": 0,
+        "Salidas Display Ports": 1,
+        "Cantidad de Slot M.2 Totales": 2,
+        "Placa Wifi Integrada": "No",
+        "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+        "Puerto Ps/2": "No",
+        "Puertos Usb 2.0 Traseros": 4,
+        "Puertos Usb 3.0 Traseros": 2,
+        "Puertos Usb 3.1 Traseros": 0,
+        "Puertos Usb 3.2 Traseros": 0,
+        "Puertos Usb Type-c": 0,
+        "Cantidad De Slot Pci-e 4X": 0,
+        "Cantidad De Slot M.2 Sata": 0,
+        "Cantidad De Slot M.2 Nvme": 2
+      },
+      "Socket": [
+        "AM4 APU 2th Gen",
+        "AM4 Ryzen 3th Gen",
+        "AM4 APU 3th Gen",
+        "AM4 Ryzen 4th Gen",
+        "AM4 Ryzen 2th Gen",
+        "AM4 APU 5000"
+      ],
+      "energy": {
+        "Watts Máximos Para Cpu": 105,
+        "Conectos Cpu 4Pines": 1,
+        "Conector Cpu 4Pines Plus": 1,
+        "Conector 24Pines": 1,
+        "Consumo": "35w",
+        "Procesador Integrado": "No"
+      },
+      "Sound": {
+        "Placa De Sonido": "7.1 Realtek ALC 1200"
+      },
+      "Memory": {
+        "Ddr4": 4
+      },
+      "Dimensions": "ATX"
+    },
+    {
+      "id": 7,
+      "brand": "AMD",
+      "name": "Mother Asrock X570 Steel Legend AM4 PCIe Gen4 ",
+      "cost": 43200,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 3,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 8,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 4,
+          "Puertos Usb 3.0 Traseros": 2,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 APU 2th Gen",
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 Ryzen 2th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1200"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "id": 8,
+      "brand": "AMD",
+      "name": "Mother ASUS TUF X570-PLUS GAMING WiFi AM4 PCIe 4.0 Dual M.2",
+      "cost": 55600,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 8,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 6,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 2,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 2th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 Ryzen 2th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "id": 9,
+      "brand": "AMD",
+      "name": "Mother Gigabyte GA-A320M-H AM4",
+      "cost": 13100,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 1,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 1,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 4,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 1
+        },
+        "Socket": [
+          "AM4 A-Series",
+          "AM4 APU 2th Gen",
+          "AM4 APU 1th Gen",
+          "AM4 Ryzen 1th Gen",
+          "AM4 Ryzen 2th Gen",
+          "AM4 Ryzen 3th Gen",
+          "AM4 Ryzen 4th Gen"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 887"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 10,
+      "brand": "AMD",
+      "name": "Mother ASUS ROG STRIX B550-F GAMING AM4 PCI-E 4.0",
+      "cost": 54150,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 3,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 4,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "id": 11,
+      "brand": "AMD",
+      "name": "Mother Asrock B550 Phantom Gaming 4",
+      "cost": 25150,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 6,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1200"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "id": 12,
+      "brand": "AMD",
+      "name": "Mother Asrock B550 Phantom Gaming ITX/AX ",
+      "cost": 50300,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 4,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "ITX"
+      }
+    },
+    {
+      "id": 12,
+      "brand": "AMD",
+      "name": "Mother Asrock B550 Phantom Gaming ITX/AX ",
+      "cost": 50300,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 4,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "ITX"
+      }
+    },
+    {
+      "id": 13,
+      "brand": "AMD",
+      "name": "Mother Asrock B550 Phantom Gaming ITX/AX ",
+      "cost": 50300,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 4,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "ITX"
+      }
+    },
+    {
+      "id": 14,
+      "brand": "AMD",
+      "name": "Mother Gigabyte A520M H AM4",
+      "cost": 20500,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 1,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 1,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 4,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 1
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 887"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 15,
+      "brand": "AMD",
+      "name": "Mother ASUS PRIME B550M-K AM4",
+      "cost": 24150,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 1,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 1,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 4,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 1
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 887"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 16,
+      "brand": "AMD",
+      "name": "Mother Asrock B550M Steel Legend AM4",
+      "cost": 32030,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 1,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 5,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 1
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1200"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 17,
+      "brand": "AMD",
+      "name": "Mother ASUS TUF B550M-PLUS AM4",
+      "cost": 38390,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 1,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 4,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1200"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 18,
+      "brand": "AMD",
+      "name": "Mother ASUS ROG STRIX B450-F GAMING II AM4",
+      "cost": 41350,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 3,
+          "Cantidad De Slot Pci-e 1X": 3,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 5,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 2,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": [
+          "AM4 Ryzen 3th Gen",
+          "AM4 APU 3th Gen",
+          "AM4 Ryzen 4th Gen",
+          "AM4 APU 5000"
+        ],
+        "energy": {
+          "Watts Máximos Para Cpu": 105,
+          "Conectos Cpu 4Pines": 2,
+          "Conector Cpu 4Pines Plus": 0,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "id": 19,
+      "brand": "Intel",
+      "name": "Mother ASUS PRIME H610M-E D4 S1700",
+      "cost": 21850,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 1,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 1,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gigabit LAN 10/100/1000/2500",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 2,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": ["1700 Alder Lake-S"],
+        "energy": {
+          "Watts Máximos Para Cpu": 235,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "10w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "Realtek 7.1 CODEC"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 20,
+      "brand": "Intel",
+      "name": "Mother MSI H310M PRO-VDH",
+      "cost": 10650,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 1,
+          "Salida HDMI": 1,
+          "Salida Dvi": 1,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 0,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 4,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 0
+        },
+        "Socket": ["1151 Coffe Lake"],
+        "energy": {
+          "Watts Máximos Para Cpu": 150,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "30w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 887"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 21,
+      "brand": "Intel",
+      "name": "Mother ASUS PRIME H310M-R R2.0 1151 OEM",
+      "cost": 11500,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 1,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 1,
+          "Salida HDMI": 1,
+          "Salida Dvi": 1,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 0,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 4,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 0
+        },
+        "Socket": ["1151 Coffe Lake"],
+        "energy": {
+          "Watts Máximos Para Cpu": 155,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 0,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 887"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 22,
+      "brand": "Intel",
+      "name": "Mother ASUS PRIME H410M-E Socket 1200 10th Gen",
+      "cost": 15850,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 4,
+          "Salida Vga": 1,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 1,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 2,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 1
+        },
+        "Socket": ["1200 Comet Lake"],
+        "energy": {
+          "Watts Máximos Para Cpu": 125,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 887"
+        },
+        "Memory": {
+          "Ddr4": 2
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 23,
+      "brand": "Intel",
+      "name": "Mother Gigabyte H470M DS3H Socket 1200",
+      "cost": 25700,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 1,
+          "Salida Vga": 1,
+          "Salida HDMI": 1,
+          "Salida Dvi": 1,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "Gigabit LAN 10/100/1000 Mb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 3,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": ["1200 Comet Lake", "1200 Rocket Lake-S"],
+        "energy": {
+          "Watts Máximos Para Cpu": 235,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 887"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 24,
+      "brand": "Intel",
+      "name": "Mother ASUS ROG STRIX Z590-E GAMING Wifi Socket 1200 10th/11th Gen",
+      "cost": 64650,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 3,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": "SLI , Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 4,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 4,
+          "Puertos Usb 3.1 Traseros": 4,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 4
+        },
+        "Socket": ["1200 Comet Lake", "1200 Rocket Lake-S"],
+        "energy": {
+          "Watts Máximos Para Cpu": 315,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 4080 + Savitech SV3H712"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "id": 25,
+      "brand": "Intel",
+      "name": "Mother ASUS PRIME Z590-A ATX S1200 10th/11th Gen",
+      "cost": 57850,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 3,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 3,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 4,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 3,
+          "Puertos Usb Type-c": 2,
+          "Cantidad De Slot Pci-e 4X": 1,
+          "Cantidad De Slot M.2 Sata": 2,
+          "Cantidad De Slot M.2 Nvme": 3
+        },
+        "Socket": ["1200 Comet Lake", "1200 Rocket Lake-S"],
+        "energy": {
+          "Watts Máximos Para Cpu": 315,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "id": 26,
+      "brand": "Intel",
+      "name": "Mother MSI MEG Z590 ACE Socket 1200",
+      "cost": 101650,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 3,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "SLI, Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 0,
+          "Cantidad de Slot M.2 Totales": 4,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 6,
+          "Puertos Usb Type-c": 2,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 2,
+          "Cantidad De Slot M.2 Nvme": 4
+        },
+        "Socket": ["1200 Comet Lake", "1200 Rocket Lake-S"],
+        "energy": {
+          "Watts Máximos Para Cpu": 395,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "50w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 DAC Sabre Hi-Fi + ALC 4082"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "id": 27,
+      "brand": "Intel",
+      "name": "Mother Gigabyte B560 AORUS PRO AX S1200",
+      "cost": 54400,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 3,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 5,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 3
+        },
+        "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
+        "energy": {
+          "Watts Máximos Para Cpu": 235,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 1220"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "id": 28,
+      "brand": "Intel",
+      "name": "Mother Gigabyte B560M-DS3H AC Socket 1200 10th Gen",
+      "cost": 25800,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 1,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "Si",
+          "Placa de Red": "1 Gb/s",
+          "Puerto Ps/2": "No",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 3,
+          "Puertos Usb Type-c": 1,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": ["1200 Comet Lake", "1200 Rocket Lake-S"],
+        "energy": {
+          "Watts Máximos Para Cpu": 235,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 892"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 29,
+      "brand": "Intel",
+      "name": "Mother Gigabyte Z590 Vision G Socket 1200 10th Gen",
+      "cost": 63900,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 3,
+          "Cantidad De Slot Pci-e 1X": 0,
+          "Tecnologia Multi Gpu": "Crossfire",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 3,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 2,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 6,
+          "Puertos Usb Type-c": 2,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 4
+        },
+        "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
+        "energy": {
+          "Watts Máximos Para Cpu": 235,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "40w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 4080"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    },
+    {
+      "id": 30,
+      "brand": "Intel",
+      "name": "Mother Gigabyte B560M AORUS ELITE S1200",
+      "cost": 34200,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 2,
+          "Cantidad De Slot Pci-e 1X": 1,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 1,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "2.5 Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 6,
+          "Puertos Usb 3.0 Traseros": 2,
+          "Puertos Usb 3.1 Traseros": 2,
+          "Puertos Usb 3.2 Traseros": 0,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 0,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
+        "energy": {
+          "Watts Máximos Para Cpu": 235,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "35w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 892"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "M-ATX"
+      }
+    },
+    {
+      "id": 31,
+      "brand": "Intel",
+      "name": "Mother Gigabyte Z590 UD AC ATX S1200",
+      "cost": 34850,
+      "img": [],
+      "connectivity": {
+        "Cantidad De Slot Pci-e 16X": 2,
+        "Cantidad De Slot Pci-e 1X": 2,
+        "Tecnologia Multi Gpu": "null",
+        "Puertos Sata": 5,
+        "Salida Vga": 0,
+        "Salida HDMI": 0,
+        "Salida Dvi": 0,
+        "Salidas Display Ports": 1,
+        "Cantidad de Slot M.2 Totales": 3,
+        "Placa Wifi Integrada": "Si",
+        "Placa de Red": "2.5 Gb/s",
+        "Puerto Ps/2": "Si",
+        "Puertos Usb 2.0 Traseros": 2,
+        "Puertos Usb 3.0 Traseros": 0,
+        "Puertos Usb 3.1 Traseros": 0,
+        "Puertos Usb 3.2 Traseros": 6,
+        "Puertos Usb Type-c": 0,
+        "Cantidad De Slot Pci-e 4X": 0,
+        "Cantidad De Slot M.2 Sata": 0,
+        "Cantidad De Slot M.2 Nvme": 3
+      },
+      "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
+      "energy": {
+        "Watts Máximos Para Cpu": 315,
+        "Conectos Cpu 4Pines": 1,
+        "Conector Cpu 4Pines Plus": 1,
+        "Conector 24Pines": 1,
+        "Consumo": "40w",
+        "Procesador Integrado": "No"
+      },
+      "Sound": {
+        "Placa De Sonido": "7.1 Realtek ALC 892"
+      },
+      "Memory": {
+        "Ddr4": 4
+      },
+      "Dimensions": "ATX"
+    },
+    {
+      "id": 32,
+      "brand": "Intel",
+      "name": "Mother Gigabyte Z590 D Rev 1.0 S1200",
+      "cost": 43950,
+      "img": [],
+      "detail": {
+        "connectivity": {
+          "Cantidad De Slot Pci-e 16X": 3,
+          "Cantidad De Slot Pci-e 1X": 2,
+          "Tecnologia Multi Gpu": "null",
+          "Puertos Sata": 6,
+          "Salida Vga": 0,
+          "Salida HDMI": 0,
+          "Salida Dvi": 0,
+          "Salidas Display Ports": 1,
+          "Cantidad de Slot M.2 Totales": 2,
+          "Placa Wifi Integrada": "No",
+          "Placa de Red": "1 Gb/s",
+          "Puerto Ps/2": "Si",
+          "Puertos Usb 2.0 Traseros": 0,
+          "Puertos Usb 3.0 Traseros": 0,
+          "Puertos Usb 3.1 Traseros": 0,
+          "Puertos Usb 3.2 Traseros": 6,
+          "Puertos Usb Type-c": 0,
+          "Cantidad De Slot Pci-e 4X": 0,
+          "Cantidad De Slot M.2 Sata": 1,
+          "Cantidad De Slot M.2 Nvme": 2
+        },
+        "Socket": ["1200 Rocket Lake-S", "1200 Comet Lake"],
+        "energy": {
+          "Watts Máximos Para Cpu": 315,
+          "Conectos Cpu 4Pines": 1,
+          "Conector Cpu 4Pines Plus": 1,
+          "Conector 24Pines": 1,
+          "Consumo": "40w",
+          "Procesador Integrado": "No"
+        },
+        "Sound": {
+          "Placa De Sonido": "7.1 Realtek ALC 897"
+        },
+        "Memory": {
+          "Ddr4": 4
+        },
+        "Dimensions": "ATX"
+      }
+    }
+  ],
+  "discos": [
+    {
+      "id": 1,
+      "brand": "Western Digital",
+      "name": "Western Digital Blue 500 GB",
+      "type": "HDD",
+      "capacity": "500 GB",
+      "frequency": "5400rpm",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "bufer": "128 MB",
+      "size": 2.5,
+      "consumo": "",
+      "cost": 9099,
+      "image": "https://media.solotodo.com/media/cache/f1/97/f197bc5632d204c0357fa2ce116bedaa.png"
+    },
+    {
+      "id": 2,
+      "brand": "Seagate",
+      "name": "Seagate Barracuda Compute 500 GB",
+      "type": "HDD",
+      "capacity": "500 GB",
+      "frequency": "5400rpm",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "bufer": "128 MB",
+      "size": 2.5,
+      "cost": 6799,
+      "image": "https://media.solotodo.com/media/cache/8c/80/8c80c29e234270f423ffe3aa69b7803c.png"
+    },
+    {
+      "id": 3,
+      "brand": "Western Digital",
+      "name": "Western Digital Purple 1 TB",
+      "type": "HDD",
+      "capacity": "1 TB",
+      "frequency": "5400rpm",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "bufer": "64 MB",
+      "size": 3.5,
+      "cost": 11054,
+      "image": "https://media.solotodo.com/media/cache/20/50/20504b040af50cd87974b058d368b048.png"
+    },
+    {
+      "id": 4,
+      "brand": "Toshiba",
+      "name": "Toshiba P300 1 TB",
+      "type": "HDD",
+      "capacity": "1 TB",
+      "frequency": "7200rpm",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "bufer": "64 MB",
+      "size": 3.5,
+      "cost": 11699,
+      "image": "https://media.solotodo.com/media/cache/9f/d0/9fd08e864e420d95bbfd7c0174eb0b4d.png"
+    },
+    {
+      "id": 5,
+      "brand": "Western Digital",
+      "name": "Western Digital Blue 1 TB",
+      "type": "HDD",
+      "capacity": "1 TB",
+      "frequency": "7200rpm",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "bufer": "64 MB",
+      "size": 3.5,
+      "cost": 8739,
+      "image": "https://media.solotodo.com/media/cache/71/fb/71fb969811512166ffab6b314a24df53.png"
+    },
+    {
+      "id": 6,
+      "brand": "Seagate",
+      "name": "Seagate Barracuda Compute 1 TB",
+      "type": "HDD",
+      "capacity": "1 TB",
+      "frequency": "7200rpm",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "bufer": "64 MB",
+      "size": 3.5,
+      "cost": 10039,
+      "image": "https://media.solotodo.com/media/cache/46/aa/46aa6d79c8e8e191e0d1549ab7316d66.png"
+    },
+    {
+      "id": 7,
+      "brand": "Seagate",
+      "name": "Seagate Savvio 300 GB",
+      "type": "SAS",
+      "capacity": "300 GB",
+      "frequency": "10000rpm",
+      "bus": "SAS",
+      "bufer": "64 MB",
+      "size": 2.5,
+      "cost": 15990,
+      "image": "https://media.solotodo.com/media/cache/94/89/94894dbe44f79bfecae85e55545f5518.png"
+    },
+    {
+      "id": 8,
+      "brand": "Lenovo",
+      "name": "Lenovo 1200 GB",
+      "type": "SAS",
+      "capacity": "1200 GB",
+      "frequency": "10000rpm",
+      "bus": "SAS",
+      "bufer": "N/A",
+      "size": 2.5,
+      "cost": 72394,
+      "image": "https://media.solotodo.com/media/cache/6c/79/6c7968b842ee8eb70ebfc218b12bcec0.png"
+    },
+    {
+      "id": 9,
+      "brand": "Seagate",
+      "name": "Seagate Cheetah 450 GB",
+      "type": "HDD",
+      "capacity": "450 GB",
+      "frequency": "15000rpm",
+      "bus": "SAS",
+      "bufer": "16 MB",
+      "size": 3.5,
+      "cost": 90000,
+      "image": "https://media.solotodo.com/media/cache/cf/97/cf97e06438baf13808924e77e5b0211b.png"
+    },
+    {
+      "id": 10,
+      "brand": "Dell",
+      "name": "Dell 600 GB",
+      "type": "HDD",
+      "capacity": "600 GB",
+      "frequency": "15000rpm",
+      "bus": "SAS",
+      "bufer": "N/A",
+      "size": 2.5,
+      "cost": 89464,
+      "image": "https://media.solotodo.com/media/cache/45/56/4556b04fdd32ab60c4568d87f21fa417.png"
+    },
+    {
+      "id": 11,
+      "brand": "Hikvision",
+      "name": "Hikvision C100 120 GB",
+      "type": "SSD",
+      "capacity": "120 GB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "550 MB/s",
+      "escritura": "435 MB/s",
+      "cost": 4230,
+      "image": "https://media.solotodo.com/media/cache/79/cd/79cd6edbe3260a0316b12a81b5e566bb.png"
+    },
+    {
+      "id": 12,
+      "brand": "Gigabyte",
+      "name": "Gigabyte 120 GB",
+      "type": "SSD",
+      "capacity": "120 GB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "350 MB/s",
+      "escritura": "280 MB/s",
+      "cost": 4159,
+      "image": "https://media.solotodo.com/media/cache/77/a7/77a7dfde6c449c3f29e2dd08d598e039.png"
+    },
+    {
+      "id": 13,
+      "brand": "Crucial",
+      "name": "Crucial BX500 240 GB",
+      "type": "SSD",
+      "capacity": "240 GB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "540 MB/s",
+      "escritura": "500 MB/s",
+      "cost": 5249,
+      "image": "https://media.solotodo.com/media/cache/44/d4/44d4c941f8c84ae78c0a1fa3efa61880.png"
+    },
+    {
+      "id": 14,
+      "brand": "Western Digital",
+      "name": "Western Digital Green 240 GB",
+      "type": "SSD",
+      "capacity": "240 GB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "545 MB/s",
+      "escritura": "N/A",
+      "cost": 5639,
+      "image": "https://media.solotodo.com/media/cache/77/a2/77a29c96b7398712f10329ac59290c89.png"
+    },
+    {
+      "id": 15,
+      "brand": "Crucial",
+      "name": "Crucial BX500 500 GB",
+      "type": "SSD",
+      "capacity": "500 GB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "550 MB/s",
+      "escritura": "500 MB/s",
+      "cost": 8480,
+      "image": "https://media.solotodo.com/media/cache/44/d4/44d4c941f8c84ae78c0a1fa3efa61880.png"
+    },
+    {
+      "id": 16,
+      "brand": "Patriot",
+      "name": "Patriot P210 512 GB",
+      "type": "SSD",
+      "capacity": "512 GB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "520 MB/s",
+      "escritura": "430 MB/s",
+      "cost": 8799,
+      "image": "https://media.solotodo.com/media/cache/cb/39/cb39a1c4237a1d7cda4aef5301e53370.png"
+    },
+    {
+      "id": 17,
+      "brand": "Hikvision",
+      "name": "Hikvision E100 512 GB",
+      "type": "SSD",
+      "capacity": "512 GB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "560 MB/s",
+      "escritura": "510 MB/s",
+      "cost": 10400,
+      "image": "https://media.solotodo.com/media/cache/22/fd/22fd42447c39419cff4a31801a17b40f.png"
+    },
+    {
+      "id": 18,
+      "brand": "Western Digital",
+      "name": "Western Digital Green 1 TB",
+      "type": "SSD",
+      "capacity": "1 TB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "545 MB/s",
+      "escritura": "N/A",
+      "cost": 18399,
+      "image": "https://media.solotodo.com/media/cache/b9/75/b975334dc7cc872063fb6e7bf5086dac.png"
+    },
+    {
+      "id": 19,
+      "brand": "Lexar",
+      "name": "Lexar NS100 1 TB",
+      "type": "SSD",
+      "capacity": "1 TB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "550 MB/s",
+      "escritura": "N/A",
+      "cost": 18399,
+      "image": ""
+    },
+    {
+      "id": 20,
+      "brand": "Samsung",
+      "name": "Samsung 860 EVO 2 TB",
+      "type": "SSD",
+      "capacity": "2 TB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "550 MB/s",
+      "escritura": "520 MB/s",
+      "cost": 120109,
+      "image": "https://media.solotodo.com/media/cache/4f/80/4f808bc26b68fc69c083f4a037840f50.png"
+    },
+    {
+      "id": 21,
+      "brand": "Samsung",
+      "name": "Samsung 870 QVO 8 TB",
+      "type": "SSD",
+      "capacity": "8 TB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "560 MB/s",
+      "escritura": "530 MB/s",
+      "cost": 364309,
+      "image": "https://media.solotodo.com/media/cache/8e/58/8e58942ed10b3f42cbd88124558ebf8c.png"
+    },
+    {
+      "id": 22,
+      "brand": "Patriot",
+      "name": "Patriot P300 128 GB",
+      "type": "M.2",
+      "capacity": "128 GB",
+      "bus": "PCIe 3.0",
+      "size": 2.5,
+      "lectura": "1600 MB/s",
+      "escritura": "600 MB/s",
+      "cost": 5292,
+      "image": "https://media.solotodo.com/media/cache/b5/4b/b54bc33b1bccf3d3ae9b702334ab1c7a.png"
+    },
+    {
+      "id": 23,
+      "brand": "Western Digital",
+      "name": "Western Digital Green 240 GB",
+      "type": "M.2",
+      "capacity": "240 GB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "545 MB/s",
+      "escritura": "N/A",
+      "cost": 7257,
+      "image": "https://media.solotodo.com/media/cache/6a/67/6a6721295082f2239f982cffa8e1d9a7.png"
+    },
+    {
+      "id": 24,
+      "brand": "Lexar",
+      "name": "Lexar NM100 256 GB",
+      "type": "M.2",
+      "capacity": "256 GB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "550 MB/s",
+      "escritura": "N/A",
+      "cost": 7459,
+      "image": "https://media.solotodo.com/media/cache/0e/0b/0e0bfa881e7590049316098446a57a8f.png"
+    },
+    {
+      "id": 25,
+      "brand": "Western Digital",
+      "name": "Western Digital Green 480 GB",
+      "type": "M.2",
+      "capacity": "480 GB",
+      "bus": "SATA 3 (6.0 Gb/s)",
+      "size": 2.5,
+      "lectura": "545 MB/s",
+      "escritura": "N/A",
+      "cost": 14999,
+      "image": "https://media.solotodo.com/media/cache/6f/96/6f96485bc6a8e2b405e262f1bc5c02d7.png"
+    },
+    {
+      "id": 26,
+      "brand": "Gigabyte",
+      "name": "Gigabyte 512 GB",
+      "type": "M.2",
+      "capacity": "512 GB",
+      "bus": "PCIe 3.0",
+      "size": 2.5,
+      "lectura": "1700 MB/s",
+      "escritura": "1550 MB/s",
+      "cost": 13986,
+      "image": "https://media.solotodo.com/media/cache/64/f6/64f6443ccb379a1ff0819e8626a981a4.png"
+    },
+    {
+      "id": 27,
+      "brand": "Kingston",
+      "name": "Kingston NV1 500 GB",
+      "type": "M.2",
+      "capacity": "500 GB",
+      "bus": "PCIe 3.0",
+      "size": 2.5,
+      "lectura": "2100 MB/s",
+      "escritura": "1700 MB/s",
+      "cost": 13929,
+      "image": "https://media.solotodo.com/media/cache/15/1d/151d5e9968b85c4908d7a1595ce35416.png"
+    },
+    {
+      "id": 28,
+      "brand": "Crucial",
+      "name": "Crucial P2 1 TB",
+      "type": "M.2",
+      "capacity": "1 TB",
+      "bus": "PCIe 3.0",
+      "size": 2.5,
+      "lectura": "2400 MB/s",
+      "escritura": "1800 MB/s",
+      "cost": 18999,
+      "image": "https://media.solotodo.com/media/cache/81/94/81942fa49b3012a99c8e5ec94939222a.png"
+    },
+    {
+      "id": 29,
+      "brand": "Western Digital",
+      "name": "Western Digital Green SN350 960 GB",
+      "type": "M.2",
+      "capacity": "960 GB",
+      "bus": "PCIe 3.0",
+      "size": 2.5,
+      "lectura": "2400 MB/s",
+      "escritura": "1900 MB/s",
+      "cost": 17999,
+      "image": "https://media.solotodo.com/media/cache/89/78/8978adbff865d86c349a30e7f62923ea.png"
+    },
+    {
+      "id": 30,
+      "brand": "Crucial",
+      "name": "Crucial P3 1 TB ",
+      "type": "M.2",
+      "capacity": "1 TB",
+      "bus": "PCIe 3.0",
+      "size": 2.5,
+      "lectura": "3500 MB/s",
+      "escritura": "3000 MB/s",
+      "cost": 25050,
+      "image": "https://media.solotodo.com/media/cache/42/4e/424ea005899bbc2e187d179cdf000ff7.png"
+    },
+    {
+      "id": 31,
+      "brand": "Western Digital",
+      "name": "Western Digital Blue SN550 2 TB",
+      "type": "M.2",
+      "capacity": "2 TB",
+      "bus": "PCIe 3.0",
+      "size": 2.5,
+      "lectura": "2400 MB/s",
+      "escritura": "1950 MB/s",
+      "cost": 97700,
+      "image": "https://media.solotodo.com/media/cache/85/df/85df773dc35e446396635416c2d524d5.png"
+    },
+    {
+      "id": 32,
+      "brand": "Samsung",
+      "name": "Samsung 970 Evo Plus 2 TB",
+      "type": "M.2",
+      "capacity": "2 TB",
+      "bus": "PCIe 3.0",
+      "size": 2.5,
+      "lectura": "3500 MB/s",
+      "escritura": "3000 MB/s",
+      "cost": 86886,
+      "image": "https://media.solotodo.com/media/cache/bf/ca/bfca54b65b86504a2351ea2e321a43df.png"
+    }
+  ],
+  "ram": [
+    {
+      "id": 1,
+      "brand": "Kingston",
+      "name": "Kingston KVR26N19S6/4",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "2666 MHz",
+      "capacity": "4GB",
+      "latency": {
+        "Latencia Cl (CAS)": 19,
+        "Latencia Trcd": 19,
+        "Latencia Trp": 19,
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.20 V",
+      "RGB": false,
+      "disipador": false,
+      "cost": 5039,
+      "image": "https://media.solotodo.com/media/cache/94/89/9489707c4b77297ac0cdc268cf25e087.png"
+    },
+    {
+      "id": 2,
+      "brand": "A-DATA",
+      "name": "A-DATA AD4U2400W4G17-S",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "2400 MHz",
+      "capacity": "4GB",
+      "latency": {
+        "Latencia Cl (CAS)": 15,
+        "Latencia Trcd": "no info",
+        "Latencia Trp": "no info",
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.20 V",
+      "RGB": false,
+      "disipador": false,
+      "cost": 5406,
+      "image": "https://media.solotodo.com/media/cache/f2/82/f282590398bc69682489475afc5bc5c2.png"
+    },
+    {
+      "id": 3,
+      "brand": "Crucial",
+      "name": "Crucial CB8GU2666",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "2666 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 19,
+        "Latencia Trcd": "no info",
+        "Latencia Trp": "no info",
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.20 V",
+      "RGB": false,
+      "disipador": false,
+      "cost": 8867,
+      "image": "https://media.solotodo.com/media/cache/56/bb/56bbe75667dacd2d67a19e1df4f70245.png"
+    },
+    {
+      "id": 4,
+      "brand": "Crucial",
+      "name": "Crucial CT8G4DFRA32A",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "3200 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 22,
+        "Latencia Trcd": 22,
+        "Latencia Trp": 22,
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.20 V",
+      "RGB": false,
+      "disipador": false,
+      "cost": 13394,
+      "image": "https://media.solotodo.com/media/cache/8f/bd/8fbdaf4f433d9550ed9f8764682f259a.png"
+    },
+    {
+      "id": 5,
+      "brand": "Kingston",
+      "name": "Kingston Fury Beast KF426C16BB/4",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "2666 MHz",
+      "capacity": "4GB",
+      "latency": {
+        "Latencia Cl (CAS)": 16,
+        "Latencia Trcd": 18,
+        "Latencia Trp": 18,
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.20 V",
+      "RGB": false,
+      "disipador": true,
+      "cost": 7305,
+      "image": "https://media.solotodo.com/media/cache/3a/aa/3aaa06bcb2acc163d34bc580a4bab314.png"
+    },
+    {
+      "id": 6,
+      "brand": "Hikvision",
+      "name": "Hikvision Urien U10 HKED4081CBA2D1ZA2/8G",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "3000 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 16,
+        "Latencia Trcd": "no info",
+        "Latencia Trp": "no info",
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.35 V",
+      "RGB": false,
+      "disipador": true,
+      "cost": 11100,
+      "image": "https://media.solotodo.com/media/cache/a1/17/a117db323218d79ce3acca5f660c111d.png"
+    },
+    {
+      "id": 7,
+      "brand": "Kingston",
+      "name": "Kingston Fury Beast KF426C16BB/8",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "2666 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 16,
+        "Latencia Trcd": 18,
+        "Latencia Trp": 18,
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.20 V",
+      "RGB": false,
+      "disipador": true,
+      "cost": 9369,
+      "image": "https://media.solotodo.com/media/cache/a2/6e/a26e9585b5a58c04e068966d6660001f.png"
+    },
+    {
+      "id": 8,
+      "brand": "Kingston",
+      "name": "Kingston Fury Beast KF432C16BB/8",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "3200 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 16,
+        "Latencia Trcd": 18,
+        "Latencia Trp": 18,
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.35 V",
+      "RGB": false,
+      "disipador": true,
+      "cost": 9669,
+      "image": "https://media.solotodo.com/media/cache/a2/6e/a26e9585b5a58c04e068966d6660001f.png"
+    },
+    {
+      "id": 9,
+      "brand": "PNY",
+      "name": "PNY XLR8 Epic-X RGB MD8GD4320016XRGB",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "3200 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 16,
+        "Latencia Trcd": "no info",
+        "Latencia Trp": "no info",
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.35 V",
+      "RGB": true,
+      "disipador": true,
+      "cost": 12799,
+      "image": "https://media.solotodo.com/media/cache/67/86/678638f74458c704e3bd2df76d2c53cc.png"
+    },
+    {
+      "id": 10,
+      "brand": "Kingston",
+      "name": "Kingston Fury Beast KF426C16BBA/8",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "2666 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 16,
+        "Latencia Trcd": 18,
+        "Latencia Trp": 18,
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.20 V",
+      "RGB": true,
+      "disipador": true,
+      "cost": 13219,
+      "image": "https://media.solotodo.com/media/cache/57/cd/57cde1bc1b220f6b5695c9033e133371.png"
+    },
+    {
+      "id": 11,
+      "brand": "Patriot",
+      "name": "Patriot Viper Steel RGB PVSR48G320C8",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "3200 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 18,
+        "Latencia Trcd": 22,
+        "Latencia Trp": 22,
+        "Latencia Tras": 42
+      },
+      "voltage": "1.35 V",
+      "RGB": true,
+      "disipador": true,
+      "cost": 12990,
+      "image": "https://media.solotodo.com/media/cache/2b/21/2b2159d8419c963947efdae66f851b84.png"
+    },
+    {
+      "id": 12,
+      "brand": "Kingston",
+      "name": "Kingston Fury Renegade RGB KF432C16RBA/8",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "3200 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 16,
+        "Latencia Trcd": "no info",
+        "Latencia Trp": "no info",
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.35 V",
+      "RGB": true,
+      "disipador": true,
+      "cost": 15990,
+      "image": "https://media.solotodo.com/media/cache/c2/bb/c2bbf4f03d3adcd4563019f90b4225f2.png"
+    },
+    {
+      "id": 13,
+      "brand": "Crucial",
+      "name": "Crucial Ballistix CT8G48C40U5",
+      "type": "DDR5",
+      "format": "DIMM",
+      "frequency": "4800 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 40,
+        "Latencia Trcd": 39,
+        "Latencia Trp": 39,
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.10 V",
+      "RGB": false,
+      "disipador": false,
+      "cost": 20631,
+      "image": "https://media.solotodo.com/media/cache/b0/43/b04373c7b5db6b2dd9c3ae3a57dd8abb.png"
+    },
+    {
+      "id": 14,
+      "brand": "Kingston",
+      "name": "Kingston Fury Beast KF552C40BB-8",
+      "type": "DDR5",
+      "format": "DIMM",
+      "frequency": "5200 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 40,
+        "Latencia Trcd": 40,
+        "Latencia Trp": 40,
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.25 V",
+      "RGB": false,
+      "disipador": true,
+      "cost": 22990,
+      "image": "https://media.solotodo.com/media/cache/10/0e/100eef0371b8f645bed61276dc279e7c.png"
+    },
+    {
+      "id": 15,
+      "brand": "Kingston",
+      "name": "Kingston Fury Beast KF560C40BB-8",
+      "type": "DDR5",
+      "format": "DIMM",
+      "frequency": "6000 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 40,
+        "Latencia Trcd": 40,
+        "Latencia Trp": 40,
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.35 V",
+      "RGB": false,
+      "disipador": true,
+      "cost": 22990,
+      "image": "https://media.solotodo.com/media/cache/10/0e/100eef0371b8f645bed61276dc279e7c.png"
+    },
+    {
+      "id": 16,
+      "brand": "Kingston",
+      "name": "Kingston Fury Beast RGB KF556C40BBA-8",
+      "type": "DDR5",
+      "format": "DIMM",
+      "frequency": "5600 MHz",
+      "capacity": "8GB",
+      "latency": {
+        "Latencia Cl (CAS)": 40,
+        "Latencia Trcd": 40,
+        "Latencia Trp": 40,
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.25 V",
+      "RGB": true,
+      "disipador": true,
+      "cost": 41532,
+      "image": "https://media.solotodo.com/media/cache/f9/54/f95407e7e3448ae6108f18c5da2c9211.png"
+    },
+    {
+      "id": 17,
+      "brand": "Kingston",
+      "name": "Kingston Fury Beast KF556C40BB-16",
+      "type": "DDR5",
+      "format": "DIMM",
+      "frequency": "5600 MHz",
+      "capacity": "16GB",
+      "latency": {
+        "Latencia Cl (CAS)": 40,
+        "Latencia Trcd": 40,
+        "Latencia Trp": 40,
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.25 V",
+      "RGB": false,
+      "disipador": true,
+      "cost": 34900,
+      "image": "https://media.solotodo.com/media/cache/10/0e/100eef0371b8f645bed61276dc279e7c.png"
+    },
+    {
+      "id": 18,
+      "brand": "Kingston",
+      "name": "Kingston Fury Beast RGB KF556C40BBA-8",
+      "type": "DDR5",
+      "format": "DIMM",
+      "frequency": "5600 MHz",
+      "capacity": "16GB",
+      "latency": {
+        "Latencia Cl (CAS)": 40,
+        "Latencia Trcd": 40,
+        "Latencia Trp": 40,
+        "Latencia Tras": "no info"
+      },
+      "voltage": "1.25 V",
+      "RGB": true,
+      "disipador": true,
+      "cost": 19796,
+      "image": "https://media.solotodo.com/media/cache/f9/54/f95407e7e3448ae6108f18c5da2c9211.png"
+    },
+    {
+      "id": 19,
+      "brand": "Corsair",
+      "name": "Corsair Vengeance RGB Pro CMW32GX4M2D3200C18",
+      "type": "DDR4",
+      "format": "DIMM",
+      "frequency": "3200 MHz",
+      "capacity": "32GB",
+      "latency": {
+        "Latencia Cl (CAS)": 18,
+        "Latencia Trcd": 22,
+        "Latencia Trp": 22,
+        "Latencia Tras": 42
+      },
+      "voltage": "1.35 V",
+      "RGB": true,
+      "disipador": true,
+      "cost": 28207,
+      "image": "https://media.solotodo.com/media/cache/85/d8/85d8752d8ec5cb59c8ed66d9596383cf.png"
+    }
+  ]
+}
+=======
   "mother": [
     {
       "id": 1,
